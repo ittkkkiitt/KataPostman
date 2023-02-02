@@ -8,5 +8,7 @@ https://blog.kata.academy/api
 ### Authentication
 ![image](https://user-images.githubusercontent.com/88095712/216329299-1a17f334-ac79-4358-b481-0d3844801ba3.png)
 
-###Get current user
+### Get current user
+![image](https://user-images.githubusercontent.com/88095712/216329750-2af7d0f6-1701-4a67-9d08-be5f3bc8818e.png)
+
 
